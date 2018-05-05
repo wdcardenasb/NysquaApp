@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NysquaApp"
+             x:Class="NysquaApp.MainPage"
+             Title="NysquacaoIntro">
+
+    <StackLayout BackgroundColor="White">
+        
+        <Image x:Name="Img1"
+               Source="CHOCOLATE.jpg"
+               HeightRequest="370"
+               WidthRequest="100"/>
+        
+        <Image Source="Nysqua.PNG" HorizontalOptions="Center" VerticalOptions="Center" />
+
+        <Label Text="NYSQUACAO APP" 
+               TextColor= "Black" 
+               HorizontalOptions="Center"
+               FontAttributes="Italic"/>
+        <Label x:Name="reserv"
+               Text="Todos los derechos reservados" 
+               TextColor= "Black" 
+               HorizontalOptions="Center"
+               FontAttributes="Italic" />
+        
+    </StackLayout>
+   
+</ContentPage>
