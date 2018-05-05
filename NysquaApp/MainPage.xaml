@@ -4,25 +4,33 @@
              xmlns:local="clr-namespace:NysquaApp"
              x:Class="NysquaApp.MainPage"
              Title="NysquacaoIntro">
+    
+    <Grid RowSpacing="0" BackgroundColor="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            
+        </Grid.RowDefinitions>
+                
+        <Image x:Name="Img1" Grid.Row="0"  Grid.Column="0" Source="Choco.jpg"/>
+        <Image x:Name="Logo" Grid.Row="1" Grid.Column="0" Source="Nysqua.PNG" />
 
-    <StackLayout Spacing="0" BackgroundColor="Black" HeightRequest="50">
-        
-        <Image x:Name="Img1" Source="CHOCOLATE.jpg" VerticalOptions="FillAndExpand" />
-        <Image x:Name="Logo" Source="Nysqua.PNG" VerticalOptions="FillAndExpand"/>
-
-        <Label Text="NYSQUACAO APP" 
+        <Label Text="NYSQUACAO APP" Grid.Row="2" Grid.Column="0"
                TextColor= "Black" 
                HorizontalOptions="Center"
                FontAttributes="Italic"
-               VerticalOptions="FillAndExpand"/>
+               />
 
-        <Label x:Name="reserv"
+        <Label x:Name="reserv" Grid.Row="3" Grid.Column="0"
                Text="Todos los derechos reservados" 
                TextColor= "Black" 
                HorizontalOptions="Center"
                FontAttributes="Italic"
-               VerticalOptions="FillAndExpand"/>
-        
-    </StackLayout>
+              />
+
+    </Grid>
+   
    
 </ContentPage>
