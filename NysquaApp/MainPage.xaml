@@ -5,24 +5,23 @@
              x:Class="NysquaApp.MainPage"
              Title="NysquacaoIntro">
 
-    <StackLayout BackgroundColor="White">
+    <StackLayout Spacing="0" BackgroundColor="Black" HeightRequest="50">
         
-        <Image x:Name="Img1"
-               Source="CHOCOLATE.jpg"
-               HeightRequest="370"
-               WidthRequest="100"/>
-        
-        <Image Source="Nysqua.PNG" HorizontalOptions="Center" VerticalOptions="Center" />
+        <Image x:Name="Img1" Source="CHOCOLATE.jpg" VerticalOptions="FillAndExpand" />
+        <Image x:Name="Logo" Source="Nysqua.PNG" VerticalOptions="FillAndExpand"/>
 
         <Label Text="NYSQUACAO APP" 
                TextColor= "Black" 
                HorizontalOptions="Center"
-               FontAttributes="Italic"/>
+               FontAttributes="Italic"
+               VerticalOptions="FillAndExpand"/>
+
         <Label x:Name="reserv"
                Text="Todos los derechos reservados" 
                TextColor= "Black" 
                HorizontalOptions="Center"
-               FontAttributes="Italic" />
+               FontAttributes="Italic"
+               VerticalOptions="FillAndExpand"/>
         
     </StackLayout>
    

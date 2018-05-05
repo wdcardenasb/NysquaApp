@@ -59,11 +59,11 @@ C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Andr
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.Security.SecureString.dll
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.Web.Services.dll
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.Xml.XPath.XDocument.dll
+C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.ComponentModel.dll
+C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.Globalization.dll
-C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.ComponentModel.dll
-C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.IO.dll
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll

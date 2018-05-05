@@ -9,4 +9,6 @@ C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp\obj\
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp\obj\Debug\netstandard2.0\NysquaApp.AssemblyInfo.cs
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp\obj\Debug\netstandard2.0\NysquaApp.dll
 C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp\obj\Debug\netstandard2.0\NysquaApp.pdb
-C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp\obj\Debug\netstandard2.0\NysquaApp.ContentPage1.xaml.g.cs
+C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp\obj\Debug\netstandard2.0\NysquaApp.Master.xaml.g.cs
+C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp\obj\Debug\netstandard2.0\NysquaApp.MasterDetail.xaml.g.cs
+C:\Users\Aprendiz Sena\source\repos\NYSQUACAO\NysquaApp\NysquaApp\NysquaApp\obj\Debug\netstandard2.0\NysquaApp.MasterMaster.xaml.g.cs
